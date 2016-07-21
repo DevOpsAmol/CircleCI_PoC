@@ -1,2 +1,4 @@
-# CircleCI_PoC
-#Read me file to initiate the circle CI PoC
+Beers-of-the-World
+==================
+
+A java web app, listing all kinds of beer
