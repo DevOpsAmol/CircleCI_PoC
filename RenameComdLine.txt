@@ -1,0 +1,4 @@
+ren C:\Users\510992\Desktop\Book1.xlsx Book11.xlsx
+
+
+C:\Tomcat\onlinebanking.war sampleonlinebanking.jar
